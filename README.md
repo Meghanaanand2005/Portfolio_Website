@@ -22,7 +22,8 @@ A simple personal portfolio website built using HTML to showcase my profile, ski
 
 ## Project Structure
 ---index.html
------README.md
+
+  -----README.md
 
 ## Live Demo
 Visit the live website here:
